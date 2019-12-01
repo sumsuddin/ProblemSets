@@ -4,4 +4,6 @@ All the public competitive programming contest problems sets that are set by me 
  * Cuet 2017 programming contest
  * Cuet 2018 Programming contest
  * East Delta Programming contest
+ * CUET 2019 Programming contest
+ * USTC 2019 Programming contest
  * More are comming
