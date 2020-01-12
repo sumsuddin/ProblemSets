@@ -6,5 +6,5 @@ All the public competitive programming contest problems sets that are set by me 
  * East Delta Programming contest
  * CUET 2019 Programming contest
  * USTC 2019 Programming contest
- * BIAUST 2020 Computenigma programming contest
+ * BAIUST 2020 Computenigma programming contest
  * More are comming
